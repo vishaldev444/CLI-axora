@@ -1,0 +1,4 @@
+2026-03-15 16:25:46 | ERROR    | axora.cli.commands.chat | AI call failed: All connection attempts failed
+2026-03-15 16:25:53 | ERROR    | axora.cli.commands.chat | AI call failed: All connection attempts failed
+2026-03-15 16:28:29 | ERROR    | axora.cli.commands.chat | AI call failed: Client error '404 Not Found' for url 'http://localhost:11434/v1)/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
